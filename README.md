@@ -2,17 +2,17 @@
 
 **Software engineering student · Web applications & developer tooling**
 
-I built **ME-OS** solo for MechPlus, working across the web app, backend, and MCP integration. I’m also a **developer and DevOps contributor** on BloodConnect, where I help plan and prioritize work as the project evolves.
+I built **ME-OS** solo for MechPlus, working across the web app, backend, and MCP integration. I’m also a **developer and DevOps contributor** on BloodConnect, where I help plan features and prioritize work as the project evolves.
 
 ## Featured work
 
 ### ME-OS · Solo developer
 
-An internal operations platform for [MechPlus](https://github.com/mechplus-application). I built the web app and backend for workflows such as quotations, purchasing, and approvals, and built the MCP integration for interacting with the system.
+An Enterprise level internal operations platform for [MechPlus](https://github.com/mechplus-application). I built the web app and backend for workflows such as quotations, purchasing, and approvals, and built the MCP integration for interacting with the system.
 
 ### BloodConnect · Developer & DevOps contributor
 
-BloodConnect is in active development. I’ve set up repository automation and security checks, documented contributor workflows, and reviewed pull requests. I also help plan and prioritize work on the project board and will continue contributing to feature development. [Repository](https://github.com/blood-connect-team/BloodConnect)
+BloodConnect is in active development. I’ve set up repository automation and security checks, documented contributor workflows, and reviewed pull requests. I also help plan and prioritize work on the project board and will continue contributing to feature planning and development. [Repository](https://github.com/blood-connect-team/BloodConnect)
 
 ### Reservation System · C
 
